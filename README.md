@@ -45,6 +45,10 @@ I created it to practice SQL, tables, relationships, and stored procedures.
 ## Database Diagram
 
 <img width="537" height="357" alt="twitter diagram" src="https://github.com/user-attachments/assets/579612f2-0fe9-45ab-a600-5fcd2dd9628e" />
+
+
+
+
 ## Stored Procedures
 
 - `create_account`: adds a new user and creates a profile for them.
