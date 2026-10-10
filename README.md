@@ -75,9 +75,6 @@ call user_follow('Lina', 'Omar'); -- Omar follows Lina
 
 ## Technologies
 
-- SQL
-- MySQL Workbench
-
 
 
 
